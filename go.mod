@@ -1,4 +1,4 @@
-module go-zero-template
+module github.com/Rgsolo/go-zero-template
 
 go 1.18
 
